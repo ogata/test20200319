@@ -4,3 +4,4 @@ hello
 BYE
 bye
 こんにちは
+さようなら
